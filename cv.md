@@ -30,8 +30,8 @@ Github@Al-eks
 
 ## **Education**
 
-Brest State Technical University
-2008-2014, Brest, Belarus
+Brest State Technical University  
+2008-2014, Brest, Belarus  
 Department ASIP, 1-53 01 02 "Automated systems of information processing"
 
 ## **Languages**
