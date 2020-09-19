@@ -18,3 +18,24 @@ I am determined and productive web developer with a passion for creative solutio
 ## **Code examples**
 
 Github@Al-eks
+
+## **Experience**
+
+- [Hexlet](https://ru.hexlet.io/u/al-eks "Studying")
+- Code-basics: [HTML](https://ru.code-basics.com/languages/html "Completed"), [CSS](https://ru.code-basics.com/languages/css "Completed"), [JavaScript](https://ru.code-basics.com/languages/javascript "Completed")
+- [Html Academy](https://htmlacademy.ru/profile/id1565043/achievements "Completed")
+- [Codecademy](https://www.codecademy.com/profiles/Al-eks "Completed")
+- 1C, Excel, AUTODESK, arduino
+- Createation website [www.bord.by](https://www.bord.by)
+
+## **Education**
+
+Brest State Technical University
+2008-2014, Brest, Belarus
+Department ASIP, 1-53 01 02 "Automated systems of information processing"
+
+## **Languages**
+
+English -  Pre-Intermediate (A2), I continue to study and study with a tutor.  
+Russian - Native  
+Polish - Advanced (B2)
