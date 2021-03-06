@@ -40,3 +40,12 @@ section {
     margin-bottom: 20px;
 }
 
+.skill-list {
+    list-style-type: none;
+    margin-left: -25px;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
