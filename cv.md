@@ -29,3 +29,15 @@ Github@Al-eks
 - [Codecademy](https://www.codecademy.com/profiles/Al-eks "Completed")
 - 1C, Excel, AUTODESK, arduino
 - Createation website [www.bord.by](https://www.bord.by)
+
+## **Education**
+
+Brest State Technical University  
+2008-2014, Brest, Belarus  
+Department ASIP, 1-53 01 02 "Automated systems of information processing"
+
+## **Languages**
+
+English -  Pre-Intermediate (A2), I continue to study and study with a tutor.  
+Russian - Native  
+Polish - Advanced (B2)
